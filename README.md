@@ -21,7 +21,8 @@ I'm actively learning and exploring several technologies and programming languag
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/leo-marselio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leo-marselio" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/leo-marselio" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="https://www.linkedin.com/in/leo-marselio" height="60" width="80" /></a>
+<a href="@panggil_saja_l" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="https://www.linkedin.com/in/leo-marselio" height="60" width="" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
